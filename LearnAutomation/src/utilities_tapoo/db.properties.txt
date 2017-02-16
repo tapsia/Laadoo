@@ -1,0 +1,6 @@
+drpdwn_leadset1 = XPATH : This is xpath property
+drpdwn_leadset2 = CSS : This is css property
+drpdwn_leadset3 = CLASS : This is class property
+drpdwn_leadset4 = ID : This is id property
+user=system  
+password=oracle 
